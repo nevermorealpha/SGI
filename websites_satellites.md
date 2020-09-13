@@ -31,7 +31,13 @@
 | 7  | Gunter's Space Page  | https://space.skyrocket.de/                | `https://space.skyrocket.de/doc_sdat/'satellite_name'.htm`   | 获取<font color=#FF0000>卫星、火箭等航天器</font>的**基本信息**等
 
 ## Industry Analysis
-| ID | Name        | Website                                    | Usage                                                 |Function
-| -  |    -        | -                                          |-                                                      | -
-| 1  | Satbeams    | https://www.satbeams.com/satellites        | `https://www.satbeams.com/satellites?norad='NORAD'`   | 获取卫星**基本信息**与**覆盖信息**
+| ID | Name                         | Website                                                                    | Function
+| -  |    -                         | -                                                                          | -
+| 1  | VarFlight                    | https://flightadsb.variflight.com/                                         | 获取航空数据
+| 2  | 船讯网                        | http://www.shipxy.com/                                                     | 获取航海信息
+| 3  | 船达通                        | http://www.shipdt.com/shipdt/#/                                            | 获取航海信息
+| 4  | 船队在线                      | http://www.hifleet.com/prelogin.do#                                        | 获取航海信息
+| 5  | 中国港口网                    | http://www.chinaports.com/shiptracker/shipinit.do?method=forIndex           | 获取航海信息
+| 6  | 国家水上交通信息服务平台       | https://www.myships.com/index.html                                          | 获取航海信息
+
 
